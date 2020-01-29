@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path C:\Users\$($env:USERNAME)\ -Recurse | ?{ $_.PSIsContainer } | Select-Object FullName
