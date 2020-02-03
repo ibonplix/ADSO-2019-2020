@@ -1,0 +1,1 @@
+﻿Copy-Item -R –Path C:\series –Destination 'C:\temporal'

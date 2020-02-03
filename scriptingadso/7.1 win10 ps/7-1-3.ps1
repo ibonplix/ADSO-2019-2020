@@ -1,0 +1,1 @@
+﻿Remove-Item -Recurse -Force -ErrorAction SilentlyContinue C:\series

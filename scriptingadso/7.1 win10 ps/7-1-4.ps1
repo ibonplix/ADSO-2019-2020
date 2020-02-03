@@ -1,0 +1,1 @@
+﻿Rename-Item -Path "C:\series\locales" -NewName "extranjeras" -Force
